@@ -15,26 +15,26 @@ function Pic(name, filepath) {
   Pic.allPics.push(this);
 }
 
-new Pic ('breakfast.jpg', 'img/breakfast.jpg');
-new Pic ('dragon.jpg', 'img/dragon.jpg');
-new Pic ('sweep.png', 'img/sweep.png');
-new Pic ('wine-glass.jpg', 'img/wine-glass.jpg');
-new Pic ('bag.jpg', 'img/bag.jpg');
-new Pic ('bubblegum.jpg', 'img/bubblegum.jpg');
-new Pic ('pen.jpg', 'img/pen.jpg');
-new Pic ('tauntaun.jpg', 'img/tauntaun.jpg');
-new Pic ('banana.jpg', 'img/banana.jpg');
-new Pic ('chair.jpg', 'img/chair.jpg');
-new Pic ('pet-sweep.jpg', 'img/pet-sweep.jpg');
-new Pic ('unicorn.jpg', 'img/unicorn.jpg');
-new Pic ('bathroom.jpg', 'img/bathroom.jpg');
-new Pic ('cthulhu.jpg', 'img/cthulhu.jpg');
-new Pic ('scissors.jpg', 'img/scissors.jpg');
-new Pic ('usb.gif', 'img/usb.gif');
-new Pic ('boots.jpg', 'img/boots.jpg');
-new Pic ('dog-duck.jpg', 'img/dog-duck.jpg');
-new Pic ('shark.jpg', 'img/shark.jpg');
-new Pic ('water-can.jpg', 'img/water-can.jpg');
+new Pic ('breakfast', 'img/breakfast.jpg');
+new Pic ('dragon', 'img/dragon.jpg');
+new Pic ('sweep', 'img/sweep.png');
+new Pic ('wine-glass', 'img/wine-glass.jpg');
+new Pic ('bag', 'img/bag.jpg');
+new Pic ('bubblegum', 'img/bubblegum.jpg');
+new Pic ('pen', 'img/pen.jpg');
+new Pic ('tauntaun', 'img/tauntaun.jpg');
+new Pic ('banana', 'img/banana.jpg');
+new Pic ('chair', 'img/chair.jpg');
+new Pic ('pet-sweep', 'img/pet-sweep.jpg');
+new Pic ('unicorn', 'img/unicorn.jpg');
+new Pic ('bathroom', 'img/bathroom.jpg');
+new Pic ('cthulhu', 'img/cthulhu.jpg');
+new Pic ('scissors', 'img/scissors.jpg');
+new Pic ('usb', 'img/usb.gif');
+new Pic ('boots', 'img/boots.jpg');
+new Pic ('dog-duck', 'img/dog-duck.jpg');
+new Pic ('shark', 'img/shark.jpg');
+new Pic ('water-can', 'img/water-can.jpg');
 
 //  need event listener to track clicks of the Pic images
 
