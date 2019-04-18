@@ -5,9 +5,9 @@ h1 {
     background: rgb(155, 144, 144);
     color: white;
     font-family: Tahoma;
-    font-size: 6.5vw;
+    font-size: 5vw;
     /*use % for width*/
-    padding: 2%;
+    margin: 15 top;
 }
 
 body {
@@ -15,6 +15,24 @@ body {
 }
 
 img {
-    margin-top: 5vw;
-    width: 50%;
+    margin-top: 2vw;
+    width: 300px;
+    height: 300px;
+}
+
+.pic-slots li {
+    float: left;
+    margin: 20px 20px 40px 0px;
+    margin-top: 100px;
+}
+
+.pic-slots  li:last-child {
+    margin-right: 0;
+}
+
+.results-style {
+    float: top;
+    font-family: Tahoma;
+    margin: 300px;
+    color: #1249c2;
 }
